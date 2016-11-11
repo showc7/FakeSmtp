@@ -1,0 +1,12 @@
+D:\Develop\FakeSMTP\FakeSMTP\bin\Debug\FakeSMTP.exe.config
+D:\Develop\FakeSMTP\FakeSMTP\bin\Debug\FakeSMTP.exe
+D:\Develop\FakeSMTP\FakeSMTP\bin\Debug\FakeSMTP.pdb
+D:\Develop\FakeSMTP\FakeSMTP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Develop\FakeSMTP\FakeSMTP\obj\x86\Debug\FakeSMTP.exe
+D:\Develop\FakeSMTP\FakeSMTP\obj\x86\Debug\FakeSMTP.pdb
+D:\projects\git\FakeSMTP\FakeSMTP\bin\Debug\FakeSMTP.exe.config
+D:\projects\git\FakeSMTP\FakeSMTP\bin\Debug\FakeSMTP.exe
+D:\projects\git\FakeSMTP\FakeSMTP\bin\Debug\FakeSMTP.pdb
+D:\projects\git\FakeSMTP\FakeSMTP\obj\x86\Debug\FakeSMTP.csprojResolveAssemblyReference.cache
+D:\projects\git\FakeSMTP\FakeSMTP\obj\x86\Debug\FakeSMTP.exe
+D:\projects\git\FakeSMTP\FakeSMTP\obj\x86\Debug\FakeSMTP.pdb
